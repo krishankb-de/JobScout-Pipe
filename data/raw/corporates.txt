@@ -1,0 +1,64 @@
+# Provided list 1: large German corporates. Format: Company | Sector | City | Career URL
+Celonis | Consulting / Process Mining | Munich | https://www.celonis.com/careers/jobs/
+Siemens AG | Conglomerate / Engineering | Munich | https://jobs.siemens.com/careers/
+BASF SE | Chemicals & Materials | Ludwigshafen | https://www.basf.com/global/en/careers.html
+Volkswagen AG | Automotive Manufacturing | Wolfsburg | https://careers.volkswagen.com/
+Deutsche Bank AG | Global Banking & Finance | Frankfurt | https://careers.db.com/
+SAP SE | Enterprise Software | Walldorf | https://jobs.sap.com/
+Allianz SE | Global Insurance | Munich | https://careers.allianz.com/
+BMW AG | Automotive Manufacturing | Munich | https://www.bmwgroup.jobs/en.html
+Daimler AG | Automotive Manufacturing | Stuttgart | https://group.mercedes-benz.com/careers/
+Fresenius SE & Co. KGaA | Healthcare & Medical | Bad Homburg | https://career.fresenius.com/
+Bayer AG | Pharmaceuticals | Leverkusen | https://career.bayer.com/
+IONOS | Cloud Computing & Web | Karlsruhe | https://jobs.ionos.com/
+Deutsche Telekom AG | Telecommunications | Bonn | https://www.telekom.com/en/careers
+Thyssenkrupp AG | Industrial Manufacturing | Essen | https://karriere.thyssenkrupp.com/en
+Henkel AG & Co. KGaA | Consumer Goods | Düsseldorf | https://www.henkel.com/careers
+Continental AG | Automotive Components | Hanover | https://www.continental.com/en/career/
+Deutsche Lufthansa AG | Aviation & Aerospace | Cologne | https://www.be-lufthansa.com/
+Merck KGaA | Pharmaceuticals | Darmstadt | https://www.merckgroup.com/en/careers.html
+Deutsche Post DHL Group | Global Logistics | Bonn | https://careers.dhl.com/eu/de/search-results
+Robert Bosch GmbH | Engineering & Tech | Gerlingen | https://www.bosch.com/careers/
+Evonik Industries AG | Specialty Chemicals | Essen | https://careers.evonik.com/
+Infineon Technologies AG | Semiconductor Design | Neubiberg | https://www.infineon.com/cms/en/careers/
+Beiersdorf AG | Consumer Goods | Hamburg | https://www.beiersdorf.com/career/
+Lanxess AG | Specialty Chemicals | Cologne | https://careers.lanxess.com/
+HeidelbergCement AG | Construction Materials | Heidelberg | https://www.heidelbergmaterials.com/en/careers
+Osram Licht AG | Lighting Technology | Munich | https://careers.ams-osram.com/en/ams-osram-career/
+E.ON SE | Energy & Utilities | Essen | https://www.eon.com/en/about-us/careers.html
+FUCHS PETROLUB SE | Chemical Lubricants | Mannheim | https://www.fuchs.com/group/careers/
+Deutsche Wohnen SE | Real Estate Management | Berlin | https://www.deutsche-wohnen.com/karriere/
+Symrise AG | Flavors and Fragrances | Holzminden | https://www.symrise.com/career/
+Brenntag AG | Chemicals Distribution | Essen | https://www.brenntag.com/en-global/careers/
+ProSiebenSat.1 Media SE | Broadcast Media | Unterföhring | https://karriere.prosiebensat1.com/
+PUMA SE | Athletic Apparel | Herzogenaurach | https://about.puma.com/en/careers
+Celesio AG | Healthcare Logistics | Stuttgart | https://www.mckesson.eu/careers/
+KION Group AG | Material Handling | Frankfurt | https://www.kiongroup.com/en/Careers/
+Wacker Chemie AG | Chemical Manufacturing | Munich | https://www.wacker.com/cms/en-us/careers/overview.html
+Osram Continental GmbH | Automotive Lighting | Munich | https://careers.ams-osram.com/en/ams-osram-career/
+TÜV SÜD AG | Testing & Certification | Munich | https://www.tuvsud.com/en/careers
+Knorr-Bremse AG | Automotive Components | Munich | https://www.knorr-bremse.com/en/careers/
+Stada Arzneimittel AG | Pharmaceuticals | Bad Vilbel | https://www.stada.com/careers
+Ceconomy AG | Consumer Electronics | Düsseldorf | https://www.ceconomy.de/en/careers/
+Deutsche Pfandbriefbank AG | Corporate Banking | Munich | https://www.pfandbriefbank.com/en/career.html
+ABB AG | Industrial Automation | Mannheim | https://careers.abb/global/en
+ALTANA AG | Specialty Chemicals | Wesel | https://www.altana.com/careers.html
+Dürr AG | Machinery & Equipment | Stuttgart | https://www.durr-group.com/en/careers
+Klüber Lubrication | Industrial Lubricants | Munich | https://www.klueber.com/en/about-us/career/
+EnBW AG | Energy Generation | Karlsruhe | https://www.enbw.com/unternehmen/karriere/
+KWS SAAT SE & Co. | Agricultural Biotech | Einbeck | https://www.kws.com/corp/en/careers/
+Axel Springer SE | Digital Media | Berlin | https://career.axelspringer.com/
+Rheinmetall AG | Defense & Automotive | Düsseldorf | https://www.rheinmetall.com/en/career
+Fielmann AG | Optics & Eyewear | Hamburg | https://www.fielmann-karriere.com/
+Schaeffler AG | Automotive / Industrial | Herzogenaurach | https://www.schaeffler.com/en/career/
+TRUMPF GmbH + Co. KG | Machine Tools | Ditzingen | (https://www.trumpf.com/en_INT/career/)
+Commerzbank AG | Banking & Finance | Frankfurt | https://jobs.commerzbank.com/
+TÜV Rheinland AG | Testing / Certification | Cologne | https://www.tuv.com/world/en/careers/
+Linde plc | Industrial Gases | Munich | https://www.linde.com/careers
+Vodafone GmbH | Telecommunications | Düsseldorf | https://careers.vodafone.com/
+Wintershall Dea GmbH | Oil and Gas | Kassel | https://wintershalldea.com/en/careers
+Uniper SE | Utilities & Energy | Düsseldorf | https://www.uniper.energy/career
+Nordex SE | Renewable Energy | Hamburg | https://www.nordex-online.com/en/career/
+adidas AG | Apparel and Footwear | Herzogenaurach | https://careers.adidas-group.com/
+MANN+HUMMEL GmbH | Automotive Filters | Ludwigsburg | https://www.mann-hummel.com/en/career.html
+QIAGEN N.V. | Biotechnology | Hilden (HQ Venlo) | https://corporate.qiagen.com/careers/

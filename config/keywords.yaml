@@ -1,0 +1,121 @@
+# Keyword dictionaries for semantic role matching (FlashText, case-insensitive,
+# word-boundary). Decision logic (jobpipe/filtering/semantic.py):
+#   match  =  (tech_role token in TITLE)
+#            AND (no negative_seniority token in TITLE)
+#            AND (no negative_role token in TITLE)
+#            AND (strict mode only: a positive seniority token present)
+# The "Matched Tech Stack" output column is filled from tech_stack tokens found
+# in title + description. Negative checks run on the TITLE only, so body text
+# mentioning "report to the senior manager" never wrongly excludes a junior role.
+#
+# Each entry maps a normalized label -> list of surface variants to detect.
+
+# --- Target roles (expanded per user: incl. Java, full-stack, AI, software dev,
+#     graduate engineer, and bare developer/engineer for breadth) ---
+tech_roles:
+  Python: [python developer, python engineer, python programmer, backend python]
+  Java: [java developer, java engineer, java backend developer]
+  Backend: [backend developer, backend engineer, back-end developer, back-end engineer,
+            backend software engineer, server-side developer, server side engineer]
+  Frontend: [frontend developer, frontend engineer, front-end developer, front-end engineer]
+  Full Stack: [full stack developer, full stack engineer, fullstack developer, fullstack engineer,
+               full-stack developer, full-stack engineer, full stack software engineer]
+  Software Engineer: [software engineer, software developer, software development engineer,
+                      software engineering, swe]
+  AI/ML: [ai engineer, ml engineer, machine learning engineer, deep learning engineer,
+          mlops engineer, ai/ml engineer, nlp engineer, computer vision engineer,
+          applied scientist, applied ai engineer, genai engineer]
+  Data: [data engineer, data engineering, data scientist, data science, data analyst,
+         data analytics, analytics engineer, business intelligence, bi developer, bi analyst]
+  DevOps/Cloud: [devops engineer, cloud engineer, platform engineer, infrastructure engineer,
+                 site reliability engineer, sre]
+  Mobile: [mobile developer, ios developer, android developer, ios engineer, android engineer]
+  Web: [web developer]
+  Generic: [developer, engineer, programmer]
+  German: [softwareentwickler, software entwickler, entwickler, softwareingenieur, programmierer]
+
+# --- Tech-stack tokens for the output "Matched Tech Stack" column ---
+tech_stack:
+  Python: [python, django, flask, fastapi, pandas, numpy]
+  Java: [java, spring, spring boot, hibernate]
+  JavaScript: [javascript, typescript, node, nodejs, react, reactjs, vue, angular, nextjs, svelte]
+  Go: [golang, go]
+  Rust: [rust]
+  .NET: [.net, asp.net, c#, dotnet]
+  C++: [c++]
+  PHP: [php, laravel, symfony]
+  Ruby: [ruby, rails]
+  Kotlin: [kotlin]
+  Swift: [swift]
+  Cloud: [aws, gcp, azure, kubernetes, k8s, docker, terraform]
+  Data: [sql, postgres, postgresql, mongodb, kafka, spark, airflow, snowflake, dbt,
+         tableau, power bi, looker, bigquery, redshift, etl]
+  AI/ML: [machine learning, deep learning, tensorflow, pytorch, llm, nlp, rag, generative ai]
+
+# --- Positive seniority (token -> normalized label). Order matters: first match wins. ---
+seniority:
+  Working Student: [working student, werkstudent, werkstudentin, werkstudent:in]
+  Intern: [intern, internship, praktikant, praktikantin, praktikum, intern (m/f/d)]
+  Trainee: [trainee, traineeship]
+  Graduate: [graduate, new grad, absolvent, hochschulabsolvent, graduate program]
+  Junior: [junior, jr, jr.]
+  Entry Level: [entry level, entry-level, entry, einsteiger, berufseinsteiger]
+  Associate: [associate]
+  Mid Level: [mid level, mid-level, midlevel, intermediate, "mid"]
+  Dual Study: [dual study, duales studium, dualer student, dual student]
+
+# --- Negative seniority (exclude if present in TITLE) ---
+negative_seniority:
+  - senior
+  - sr
+  - "sr."
+  - lead
+  - leitung
+  - principal
+  - staff engineer
+  - distinguished
+  - director
+  - head of
+  - vp
+  - vice president
+  - chief
+  - "c-level"
+  - expert
+  - architect
+  - manager
+
+# --- Negative roles (non-software roles to exclude even with developer/engineer present) ---
+negative_roles:
+  - sales
+  - account executive
+  - account manager
+  - business development
+  - mechanical
+  - electrical
+  - civil engineer
+  - chemical engineer
+  - industrial engineer
+  - process engineer
+  - hardware engineer
+  - recruiter
+  - recruiting
+  - talent acquisition
+  - human resources
+  - marketing
+  - accountant
+  - controller
+  - product manager
+  - project manager
+  - scrum master
+  - product owner
+  - customer support
+  - customer success
+  - support engineer
+  - solutions engineer
+  - solution engineer
+  - presales
+  - pre-sales
+  - ux designer
+  - ui designer
+  - product designer
+  - graphic designer

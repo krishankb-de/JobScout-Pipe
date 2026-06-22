@@ -1,0 +1,198 @@
+# Provided list 2: German tech startups/scale-ups + global hubs. Format: Company | City / Sector | Career URL
+BurdaForward | Munich / AdTech | https://www.burda-forward.de/en/career/jobs/
+trbo | Munich / AdTech | https://www.trbo.com/careers/
+Combyne | Munich / App Tech | https://www.combyne.com/careers/
+Freeletics | Munich / Health & Fitness AI | https://www.freeletics.com/en/corporate/
+MING Labs | Munich / Digital Innovation | https://minglabs.com/careers/
+BetterTaxi | Munich / Mobility | https://www.bettertaxi.com/jobs/
+FAZUA | Munich / Automotive Tech | https://fazua.com/en/company/jobs/
+Fleetster | Munich / Automotive SaaS | https://fleetster.breezy.hr/
+FlixBus | Munich / Travel & Mobility | https://flix.careers/job
+ParkHere | Munich / Smart Mobility | https://park-here.eu/karriere/
+SIXT | Munich / Mobility Provider | https://www.sixt.jobs/en/
+Adobe (German Hub) | Munich / BigTech | https://careers.adobe.com/us/en/
+Cisco (German Hub) | Munich / Networking | https://jobs.cisco.com/jobs/
+Google (German Hub) | Munich / BigTech | https://careers.google.com/
+Hubert Burda Media | Munich / Media Tech | https://www.burda.com/de/karriere/
+IBM (German Hub) | Munich / BigTech | https://www.ibm.com/careers/de-de/
+mgm technology partners | Munich / Enterprise Software | https://jobs.mgm-tp.com/jobs.html
+Microsoft (German Hub) | Munich / Software | https://careers.microsoft.com/v2/global/en/home.html
+Rohde & Schwarz | Munich / Telecommunications | https://www.rohde-schwarz.com/de/karriere/stellenangebote/karriere-stellenangebote_251573.html
+Thoughtworks (Germany) | Munich / IT Consulting | https://www.thoughtworks.com/de-de/careers/
+Yahoo (German Hub) | Munich / Internet Media | https://www.yahooinc.com/careers/
+Amazon (German Hub) | Munich / Cloud & E-commerce | https://www.amazon.jobs/en/
+NFON | Munich / Telecommunications | https://corporate.nfon.com/en/careers/careers/
+Datarella | Munich / Blockchain | https://datarella.com/careers/
+Building Radar | Munich / Data Analysis | https://buildingradar.com/career/
+CHECK24 | Munich / Comparison Portal | https://jobs.check24.de/en/jobs/
+commercetools | Munich / eCommerce | https://commercetools.com/careers/jobs/
+CUPONATION (GSG) | Munich / eCommerce | https://www.global-savings-group.com/careers/
+givve | Munich / B2B FinTech | https://givve.com/de/karriere/
+limango | Munich / eCommerce | https://www.limango.de/jobs/
+lingoking | Munich / eCommerce Services | https://www.lingoking.com/en/about-us/jobs
+Mytheresa | Munich / Luxury Fashion | https://career.mytheresa.com/en/open-positions/
+Planet Sports | Munich / eCommerce | https://www.planet-sports.de/c/planet-sports-inside/jobs/
+Scout24 | Munich / Real Estate Portal | https://www.scout24.com/en/career/jobs
+VITAFY | Munich / Nutrition eCommerce | https://vitafybrands.de/
+Westwing | Munich / Home & Living | https://www.westwing.com/careers/
+Aboalarm | Munich / FinTech | https://www.aboalarm.de/alle-jobs/
+Bilendo | Munich / B2B FinTech | https://www.bilendo.de/unternehmen/karriere/
+Boku | Munich / Mobile Payments | https://www.boku.com/careers/
+Gini | Munich / AI Payments | https://gini.net/ueber-gini/#jobs
+Interhyp | Munich / Mortgage Brokerage | https://jobs.interhyp.de/
+PAYBACK | Munich / FinTech Loyalty | (https://jobs.payback.group/en_US/careers/)
+MegaZebra | Munich / Mobile Gaming | https://www.megazebra.com/careers/open-positions/
+Travian Games | Munich / Computer Games | https://traviangames.com/en/jobs/
+Cobrainer | Munich / HR Tech | https://www.cobrainer.com/open-position#career
+Personio | Munich / HR Software | https://www.personio.com/about-personio/careers/
+Speexx | Munich / Digital Learning | https://www.speexx.com/all-jobs/
+Bragi | Munich / IoT Audio | https://www.bragi.com/careers/
+Cosinuss | Munich / MedTech Wearables | https://www.cosinuss.com/en/jobs/
+EGYM DACH | Munich / Fitness IoT | https://egym.com/us/jobs
+KINEXON | Munich / IoT Logistics | https://kinexon.com/jobs/
+KONUX | Munich / Railway Analytics | https://www.konux.com/careers/
+ProGlove | Munich / Industrial IoT | https://proglove.com/careers/#open-positions
+tacterion | Munich / Sensor Tech | https://www.tacterion.com/company/career/
+tado° | Munich / Smart Home IoT | https://apply.workable.com/tado/#jobs
+3megawatt | Munich / Renewable Energy | https://powerfactors.com/careers/
+Elgato | Munich / A/V Tech | https://www.elgato.com/us/en/s/careers
+innosabi | Munich / Innovation Software | https://innosabi.com/career/
+JetBrains (German Hub) | Munich / Developer Tools | https://www.jetbrains.com/careers/jobs/
+Userlane | Munich / Digital Adoption | https://www.userlane.com/about/careers/
+SimScale | Munich / Cloud Simulation | https://www.simscale.com/jobs/
+Testbirds | Munich / Crowdtesting | https://www.testbirds.com/en/careers/jobs/
+adnymics | Munich / Printvertising | https://parceldealz.com/uber-uns/#karriere
+censhare | Munich / Content Platform | https://www.censhare.com/de/karriere/
+parcelLab | Munich / Marketing Tech | https://parcellab.com/jobs/
+XAD spoteffects | Munich / TV Ad Tech | https://xadspoteffects.com/karriere#page-content/
+VEACT | Munich / Marketing | https://www.joinveact.net/
+ysura | Munich / Pharma CRM | https://ysura.hire.trakstar.com/
+Brainlab | Munich / MedTech | https://www.brainlab.com/career/jobs/
+jameda | Munich / Health Portal | https://www.docplanner.com/career/
+ottonova | Munich / Digital Health Insurance | https://www.ottonova.de/unternehmen/jobs/
+IDnow | Munich / Identity Verification | https://www.idnow.io/career/
+riskmethods (Sphera) | Munich / Supply Chain | https://sphera.com/careers/
+HolidayCheck | Munich / Travel Tech | https://holidaycheck.jobs.personio.de/?language=en
+Holidu | Munich / Travel Tech | https://www.holidu.com/careers/list
+Regiondo | Munich / Booking Systems | https://pro.regiondo.com/careers/
+ICAROS | Munich / VR Fitness | https://www.icaros.com/en/
+Inflight VR | Munich / VR Tech | https://www.inflight-vr.com/about#careers
+Innoactive | Munich / XR Platforms | https://www.innoactive.io/career/
+New Work SE | Hamburg / HR Tech | https://www.new-work.se/en/career
+Open-Xchange | Nuremberg / Open Source | https://www.open-xchange.com/about-ox/careers/
+ownCloud | Nuremberg / Cloud Storage | https://owncloud.com/careers/
+PicDrop | Berlin / Image Transfer SaaS | https://www.picdrop.com/web/en/jobs
+INNOQ | Remote / Consulting | https://www.innoq.com/en/careers/
+Inpsyde | Bergisch Gladbach / WP Agency | https://inpsyde.com/careers/
+inter.link | Berlin / Network-as-a-Service | https://inter.link/careers
+Jaumo | Göppingen / Social App | https://careers.jaumo.com/
+BRYTER | Frankfurt / No-Code SaaS | https://bryter.com/careers/
+BVV | Berlin / Financial Pensions | https://www.bvv.de/karriere/
+calimoto | Potsdam / Navigation | https://calimoto.com/en/jobs
+cloud37 | Remote / Cloud IT | https://cloud37.de/karriere/
+Conceptboard | Stuttgart / Visual Collaboration | https://conceptboard.com/careers/
+Crate.io | Berlin / Data Management | https://crate.io/about/careers
+Hetzner Cloud GmbH | Unterföhring / Web Hosting | https://www.hetzner.com/unternehmen/karriere/
+Implisense | Berlin / B2B AI | https://implisense.com/en/career
+IMA Schelling Group | Lübbecke / Industrial Machinery | https://www.imaschelling.com/
+Eyeo | Cologne / Ad-blocking Tech | https://eyeo.com/careers
+finstreet | Münster / FinTech Consulting | https://www.finstreet.de/karriere/
+GetTechTalent | Berlin / Tech Recruiting | https://www.gettechtalent.com/
+Giant Swarm | Cologne / Cloud Infrastructure | https://giantswarm.io/careers/
+SuSE | Nuremberg / Open Source OS | https://www.suse.com/company/careers/
+SysEleven | Berlin / Managed Hosting | https://www.syseleven.de/karriere/
+TIMOCOM | Düsseldorf / Freight Logistics | https://www.timocom.com/career
+Travello | Pinneberg / Audio Tech | https://www.travello.audio/
+ETECTURE | Frankfurt / Digital Architecture | https://www.etecture.de/karriere/
+Travis CI | Berlin / CI/CD Software | https://travis-ci.org/
+Uberspace | Mainz / Cloud Hosting | https://uberspace.de/en/jobs/
+virtualQ | Stuttgart / Customer Service AI | https://virtualq.io/karriere/
+Wolt (German Hub) | Berlin / Delivery Logistics | https://careers.wolt.com/
+X-FAB | Erfurt / Semiconductor Foundry | https://www.xfab.com/about-us/careers
+L21s | Remote / Digital Consulting | https://www.l21s.de/
+Truecaller (German Hub) | Berlin / Telecommunications | https://www.truecaller.com/careers/jobs
+Project A Ventures | Berlin / Venture Capital | https://www.project-a.com/careers/
+Sunday GmbH | Hamburg / Gaming Software | https://sunday.gg/jobs/
+justtrack | Hamburg / Marketing Analytics | https://justtrack.io/careers/
+FRIDAY | Berlin / Digital Insurance | https://www.friday.de/unternehmen/karriere
+justDice | Hamburg / Mobile Gaming | https://justdice.io/jobs/
+Kaufland e-commerce | Cologne / Retail Tech | https://kaufland-ecommerce.com/en/career/jobs/
+komoot | Potsdam / Outdoor Navigation | https://www.komoot.com/jobs
+Lexware (Haufe Group) | Freiburg / Financial Software | https://jobs.haufegroup.com/search?company=Lexware
+Lingoda | Berlin / EdTech | https://www.lingoda.com/en/careers/
+Link11 | Frankfurt / Cybersecurity | https://www.link11.com/en/careers/
+Lyska | Offenbach / IT Services | https://www.lyska.de/
+taxfix | Berlin / FinTech | https://taxfix.de/en/careers/
+Forto | Berlin / Digital Logistics | https://forto.com/en/careers/
+raisin | Berlin / FinTech Deposits | https://www.raisin.com/careers/
+Rows | Berlin / Data Tooling & SaaS | https://rows.com/about/careers
+Alasco | Munich / Construction Tech | https://www.alasco.de/karriere/
+Solvians | Frankfurt / IT Solutions | https://www.solvians.com/career
+Babbel | Berlin / Language Learning | https://jobs.babbel.com/
+Payrails | Berlin / FinTech Payments | https://www.payrails.com/careers
+ROSE Bikes GmbH | Bocholt / Bicycle E-commerce | https://karriere.rosebikes.de/en/
+Deutsche Windtechnik | Bremen / Wind Energy | https://jobs-nl.deutsche-windtechnik.com/
+OM Digital Solutions | Hamburg / Digital Tech | https://om-digitalsolutions.career.softgarden.de/
+Delivery Hero | Berlin / Food Delivery | https://careers.deliveryhero.com/
+N26 | Berlin / Digital Neobanking | https://n26.com/en-de/careers
+Klarna (German Hub) | Berlin / Payments & Credit | https://www.klarna.com/careers/
+Wayfair (German Hub) | Berlin / E-commerce | https://www.wayfaircareers.com/
+Signavio (SAP) | Berlin / Process Mining SaaS | https://www.signavio.com/careers/
+Free Now | Hamburg / Mobility Solutions | https://free-now.com/uk/careers/
+Trivago | Düsseldorf / Travel Tech | https://company.trivago.com/careers/
+Blinkist | Berlin / EdTech | https://www.blinkist.com/en/about/jobs
+Applike Group | Hamburg / App Technologies | https://applike-group.com/jobs
+Berlin Brands Group | Berlin / E-commerce Aggregation | https://www.berlinbrandsgroup.com/en/career
+RapidAPI (German Hub) | Berlin / API Management | https://rapidapi.com/careers/
+Brighter AI | Berlin / Privacy Technology | https://brighter.ai/careers/
+Jimdo | Hamburg / Website Builder | https://www.jimdo.com/careers/
+Storyblok | Remote / Headless CMS | https://www.storyblok.com/jobs
+Zalando | Berlin / Fashion E-commerce | https://jobs.zalando.com/en/jobs/
+SoundCloud | Berlin / Audio Streaming | https://careers.soundcloud.com/
+straiv | Stuttgart / Hospitality Tech | https://straiv.io/en/career/
+Auto1 Group | Berlin / Automotive E-commerce | https://auto1-group.com/careers/
+Tier Mobility | Berlin / Micro-Mobility | https://career.tier.app/
+HelloFresh | Berlin / Food & Meal Kits | https://www.hellofresh.com/careers/
+Gorillas | Berlin / Delivery Logistics | https://www.gorillas.io/en/careers
+Sennder | Berlin / Digital Freight | https://sennder.com/careers
+Trade Republic | Berlin / FinTech Brokerage | https://traderepublic.com/en-de/careers
+Scalable Capital | Munich / FinTech Wealth | https://scalablerecapital.com/careers
+Wefox | Berlin / InsurTech | https://www.wefox.com/en-de/careers
+Pitch | Berlin / Presentation SaaS | https://pitch.com/about/careers
+Contentful | Berlin / Headless CMS | https://www.contentful.com/careers/
+DeepL | Cologne / AI Translation | https://www.deepl.com/en/jobs/
+CoachHub | Berlin / Digital Coaching | https://www.coachhub.com/careers/
+Grover | Berlin / Tech Subscriptions | https://www.grover.com/careers
+Enpal | Berlin / Renewable Energy | https://www.enpal.com/careers
+Volocopter | Bruchsal / Urban Air Mobility | https://www.volocopter.com/careers/
+Lilium | Munich / Aviation Tech | https://www.lilium.com/careers
+Isar Aerospace | Munich / Space Tech | https://isar-aerospace.com/careers
+Infarm | Berlin / AgriTech | https://infarm.com/careers
+Mambu | Berlin / Core Banking SaaS | https://www.mambu.com/careers
+Omio | Berlin / Travel Tech | https://www.omio.com/jobs
+Tourlane | Berlin / Travel Booking | https://www.tourlane.com/careers/
+GetYourGuide | Berlin / Travel & Tourism | https://www.getyourguide.careers/
+Chrono24 | Karlsruhe / Luxury E-commerce | https://www.chrono24.com/about/career.htm
+Flix | Munich / Transportation | https://flix.careers/
+About You | Hamburg / Fashion E-commerce | https://corporate.aboutyou.de/en/jobs
+Flaconi | Berlin / Beauty E-commerce | https://corporate.flaconi.de/career/
+Emma - The Sleep Company | Frankfurt / D2C Retail | https://team.emma-sleep.com/
+NuCom Group | Unterföhring / Digital Commerce | https://nucom.group/en/career
+Tonies | Düsseldorf / Kids Audio Tech | https://tonies.com/en-gb/careers/
+Solarisbank | Berlin / Banking-as-a-Service | https://www.solarisgroup.com/en/careers/
+Clark | Frankfurt / Digital Insurance | https://www.clark.de/en/careers/
+Taxdoo | Hamburg / Financial Compliance | https://taxdoo.com/en/career/
+Moonfare | Berlin / Wealth Management | https://www.moonfare.com/careers
+Staffbase | Chemnitz / Internal Comms SaaS | https://www.staffbase.com/jobs/
+LeanIX | Bonn / Enterprise Architecture | https://www.leanix.net/en/company/careers
+Camunda | Berlin / Process Automation | https://www.camunda.com/careers/
+Spryker | Berlin / B2B Commerce OS | https://www.spryker.com/careers
+Ecosia | Berlin / Search Engine | https://ecosia.co/jobs
+ResearchGate | Berlin / Science Networking | https://www.researchgate.net/careers
+Choco | Berlin / Food Supply Chain | https://www.choco.com/careers
+Vinted (German Hub) | Berlin / Circular Economy | https://corporate.vinted.com/careers/
+Flink | Berlin / Instant Grocery | https://flink.com/en/careers
+Xentral | Augsburg / ERP Software | https://xentral.com/en/careers
+SellerX | Berlin / E-commerce Roll-up | https://www.sellerx.com/careers/
+Razor Group | Berlin / E-commerce Brand Aggregator | https://razor-group.com/careers/
+Zeitgold | Berlin / FinTech Accounting | https://zeitgold.com/careers/
